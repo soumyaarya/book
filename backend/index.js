@@ -7,7 +7,7 @@ require('dotenv').config()
 //middleware
 app.use(express.json())
 app.use(cors({
-    origin:['http://localhost:5173'],
+    origin:['http://localhost:5173','https://book-git-main-soumya-aryas-projects.vercel.app/'],
      credentials:true,
      allowedHeaders: ['Authorization', 'Content-Type']
 
