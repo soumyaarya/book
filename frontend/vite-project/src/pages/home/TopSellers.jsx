@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { data } from 'react-router-dom'
-import BookCard from '../books/bookCard'
+import BookCard from '../books/BookCard'
 import { Swiper, SwiperSlide } from 'swiper/react';
 // import required modules
 import { Navigation, Pagination } from 'swiper/modules';
