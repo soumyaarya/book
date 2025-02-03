@@ -7,7 +7,7 @@ import { Navigation, Pagination } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
-import BookCard from '../books/bookCard';
+import BookCard from '../books/BookCard';
 import { useFetchAllBooksQuery } from '../../redux/features/books/books.Api';
 
 const Recommended = () => {
