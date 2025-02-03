@@ -1,4 +1,4 @@
 const getBaseUrl = ()=>{
-    return "https://book-backend-44zd5fukg-soumya-aryas-projects.vercel.app/"
+    return "https://vercel.com/soumya-aryas-projects/book-backend/56pwr1HRddXVaWNUJBLwDhYz1h4U"
 }
 export default getBaseUrl
