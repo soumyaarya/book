@@ -22,7 +22,7 @@ Welcome to the **BookNest**, an interactive and user-friendly platform for brows
 
 1. **Clone the repository**
    ```sh
-   git clone  https://github.com/your-username/your-repository.git
+   git clone  https://github.com/soumyaarya/your-repository.git
    
    ```
 
@@ -45,9 +45,6 @@ Welcome to the **BookNest**, an interactive and user-friendly platform for brows
 - ⭐ Add a review and rating system
 - 💳 Integrate payment gateway
 - 🎨 Improve UI/UX
-
-## 🤝 Contributing
-Feel free to fork this repository and submit pull requests to improve the project.
 
 ## 📄 License
 This project is licensed under the MIT License.
