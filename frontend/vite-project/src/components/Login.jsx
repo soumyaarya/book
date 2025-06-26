@@ -63,7 +63,7 @@ const Login = () => {
             </div>
 
         </form>
-        <p className='align-baseline font-medium mt-4 text=sm'>Haven't an account? Please <Link to='/register' className='text-blue-500 hover:text-blue-700'>Register</Link> </p>
+        <p className='align-baseline font-medium mt-4 text=sm'>Don't have an account? Please <Link to='/register' className='text-blue-500 hover:text-blue-700'>Register</Link> </p>
         {/*google sign */}
         <div className='mt-4'>
             <button
