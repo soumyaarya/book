@@ -22,7 +22,7 @@ Welcome to the **BookNest**, an interactive and user-friendly platform for brows
 
 1. **Clone the repository**
    ```sh
-   git clone  https://github.com/soumyaarya/your-repository.git
+   git clone  https://github.com/soumyaarya/BookNest.git
    
    ```
 
